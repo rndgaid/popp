@@ -1,0 +1,20 @@
+{
+    "name" : "popp5/megaquiz",
+    "description" : "test project",
+    "license" : "MIT",
+    "authors" : [
+        {
+            "name" : "Vasya",
+            "email" : "mymail@yahoeu.com"
+        }
+    ],
+
+    "require" : {
+        "abraham/twitteroauth" : "^7.0.0",
+        "ext-xml" : "*",
+        "ext-gd" : "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11"
+    }
+}
